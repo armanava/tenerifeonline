@@ -46,7 +46,7 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "80uoahizqi",
+    "mbrsiteDomain": "08ludtvlpr",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -60,7 +60,13 @@
     },
     "uniqCompNum": 12,
     "versionPublish": "5.6.11",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "PWA": {
+      "enabled": false,
+      "name": "",
+      "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
+      "themeColor": "#6592e6"
+    }
   },
   "pages": {
     "index.html": {
